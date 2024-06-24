@@ -2,7 +2,6 @@ import './App.css';
 import Navbar from './Components/Navbar/navbar'
 import Home from './Components/Home/home'
 import Main from './Components/Main/main'
-import Slider from './Components/Slider/slider'
 import Footer from './Components/Footer/footer'
 
 function App() {
@@ -11,7 +10,6 @@ function App() {
       <Navbar/>
       <Home/>
       <Main/>
-      <Slider/>
       <Footer/>
     </div>
   );
