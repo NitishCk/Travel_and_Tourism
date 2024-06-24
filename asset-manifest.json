@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Travel_and_Tourism/static/css/main.24ea624d.css",
+    "main.js": "/Travel_and_Tourism/static/js/main.5067b30d.js",
+    "static/js/453.2f0131f6.chunk.js": "/Travel_and_Tourism/static/js/453.2f0131f6.chunk.js",
+    "static/media/homepage_video.mp4": "/Travel_and_Tourism/static/media/homepage_video.4efcbe278d8d061270ed.mp4",
+    "static/media/footer_video.mp4": "/Travel_and_Tourism/static/media/footer_video.cbf0d02f24d5afc5c6f1.mp4",
+    "static/media/mountfuji.jpg": "/Travel_and_Tourism/static/media/mountfuji.cfd0590577bb87dce1c0.jpg",
+    "static/media/amsterdam.jpg": "/Travel_and_Tourism/static/media/amsterdam.7f5772eeef6b9b21aba1.jpg",
+    "static/media/bali.jpg": "/Travel_and_Tourism/static/media/bali.c32a2da028755b2cadf6.jpg",
+    "static/media/cappadocia.jpg": "/Travel_and_Tourism/static/media/cappadocia.730d67b3fd54e8ec7488.jpg",
+    "static/media/paris.jpg": "/Travel_and_Tourism/static/media/paris.c1ab3e996355f010f155.jpg",
+    "static/media/victoriafalls.jpg": "/Travel_and_Tourism/static/media/victoriafalls.52c0ecc2ac6cc484c167.jpg",
+    "static/media/newyork.jpg": "/Travel_and_Tourism/static/media/newyork.2d212d67c142d37126fe.jpg",
+    "static/media/miami.jpg": "/Travel_and_Tourism/static/media/miami.a12cd710adc889f87b5b.jpg",
+    "static/media/tajmahal.jpg": "/Travel_and_Tourism/static/media/tajmahal.d7cf4ed6057e2e661521.jpg",
+    "static/media/yellowstone.jpg": "/Travel_and_Tourism/static/media/yellowstone.c7c355f7aceb7bcb8c0f.jpg",
+    "static/media/barrier.jpg": "/Travel_and_Tourism/static/media/barrier.050d31c7728732ea2f91.jpg",
+    "static/media/venice.jpg": "/Travel_and_Tourism/static/media/venice.f088a5b7c93cc4f8c5ed.jpg",
+    "static/media/kyoto.jpg": "/Travel_and_Tourism/static/media/kyoto.2ea2a60361e467fd1e32.jpg",
+    "static/media/london.jpg": "/Travel_and_Tourism/static/media/london.a0c1282f646d69f530e5.jpg",
+    "static/media/malaysia.jpg": "/Travel_and_Tourism/static/media/malaysia.816ed7bca8de1fe367ea.jpg",
+    "index.html": "/Travel_and_Tourism/index.html",
+    "main.24ea624d.css.map": "/Travel_and_Tourism/static/css/main.24ea624d.css.map",
+    "main.5067b30d.js.map": "/Travel_and_Tourism/static/js/main.5067b30d.js.map",
+    "453.2f0131f6.chunk.js.map": "/Travel_and_Tourism/static/js/453.2f0131f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ea624d.css",
+    "static/js/main.5067b30d.js"
+  ]
+}
